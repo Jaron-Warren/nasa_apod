@@ -1,5 +1,7 @@
 # nasa_apod
 
+Use the NASA API to display the Picture of the Day. Allow users to query for a picture from a particular day.
+
 ## Project setup
 ```
 npm install
